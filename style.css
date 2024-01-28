@@ -13,4 +13,6 @@ li {
 }
 body {
     background-color: darkorange;
+    max-width: 600px;
+    margin: 0 auto;
 }
